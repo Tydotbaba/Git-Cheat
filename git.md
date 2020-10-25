@@ -28,3 +28,6 @@ e.g: `git push origin master`
 
 `git pull` | `git pull remote-name branch-name`
 fetch data from the remote repository and downloads it to our local repository
+
+`git log `
+shows the commit history

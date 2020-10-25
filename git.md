@@ -31,3 +31,6 @@ fetch data from the remote repository and downloads it to our local repository
 
 `git log `
 shows the commit history
+
+`git checkout point-name`
+checkout to the that point
